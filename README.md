@@ -1,1 +1,1 @@
-This is a 2024 version of the FYS-2021 (Machine Learning) assistance on solutions for tasks++.
+This is the 2024 version of the FYS-2021 (Machine Learning) assistance on solutions for tasks++ at UiT - The Arctic University of Norway. It's usually distributed only for the Bodø master students in computer science, but anyone interested are free to have a look.
